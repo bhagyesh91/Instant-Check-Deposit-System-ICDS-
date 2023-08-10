@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310728405725",
+    "project_id": "icds-2a72e",
+    "storage_bucket": "icds-2a72e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310728405725:android:a58056be3f7e108edbe134",
+        "android_client_info": {
+          "package_name": "com.example.icds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310728405725-db7oq13d0sad4i3e1edr86l712g89ihq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd6EsZJF_8-rS2hkb3vW9fur352kcj-3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310728405725-db7oq13d0sad4i3e1edr86l712g89ihq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
